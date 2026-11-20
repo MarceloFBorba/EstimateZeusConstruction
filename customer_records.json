@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "customer_name": "Marcelo",
+        "phone": "0000000",
+        "po_number": "00001",
+        "address": "Av mato grosso",
+        "city": "Alicia",
+        "state": "AR",
+        "zip_code": "00000",
+        "date": "2026-11-20",
+        "prepared_by": "Andre",
+        "items": [
+            {
+                "units": 25.0,
+                "description": "Tijolo",
+                "price": 45.0
+            }
+        ]
+    },
+    {
+        "customer_name": "Marcelo",
+        "phone": "0000000",
+        "po_number": "00001",
+        "address": "Av mato grosso",
+        "city": "Alicia",
+        "state": "AR",
+        "zip_code": "00000",
+        "date": "2026-11-20",
+        "prepared_by": "Andre",
+        "items": [
+            {
+                "units": 25.0,
+                "description": "Tijolo ",
+                "price": 25.0
+            }
+        ]
+    }
+]
